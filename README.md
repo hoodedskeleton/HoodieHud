@@ -8,6 +8,6 @@ A slick, minimal, custom hud for Diabotical.
 Taking the best elements from various existing first-person-shooter huds, HoodieHud offers a clean and effecient look for the game. This hud aims to clean up the clutter, keep the important information close to the center within the peripheral vision, while also not distracting or getting in the way of the targets you're looking at.
 
 # Downloading and Installing
-Click [here](http://google.com) or the green ```Clone or Download``` button at the top then click ```Download ZIP``` to download the latest release of the hud. Once you have it downloaded, edit your "Settings.txt" file within your Diabotical folder ```C:\Users\[Your Name]\AppData\Roaming\Diabotical``` with something like [Notepad++](https://notepad-plus-plus.org/downloads/v7.8.5/) and find the line the reads ```hud_definition =```. Once you find it, replace that line with the text within "HoodieHud.txt" that you downloaded from here and you're done.
+Click [here](https://github.com/hoodedskeleton/HoodieHud/archive/master.zip) or the green ```Clone or Download``` button at the top then click ```Download ZIP``` to download the latest release of the hud. Once you have it downloaded, edit your "Settings.txt" file within your Diabotical folder ```C:\Users\[Your Name]\AppData\Roaming\Diabotical``` with something like [Notepad++](https://notepad-plus-plus.org/downloads/v7.8.5/) and find the line the reads ```hud_definition =```. Once you find it, replace that line with the text within "HoodieHud.txt" that you downloaded from here and you're done.
 
 v1.0
